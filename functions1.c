@@ -3,9 +3,9 @@
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - Prints unsigned number
- * @types: Arguments List
- * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
+ * @types: Arguments List.
+ * @buffer: Buffer array to handle print.
+ * @flags:  Calculates active flags.
  * @width: get width
  * @precision: Precision specifications
  * @size: Size specifier
