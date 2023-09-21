@@ -4,9 +4,9 @@
 
 /**
  * print_char - Prints a character
- * @types: Arguments List
- * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
+ * @types: Arguments List.
+ * @buffer: Buffer array to handle print.
+ * @flags:  Calculates active flags.
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
