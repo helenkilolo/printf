@@ -3,9 +3,9 @@
 /****************** PRINT POINTER ****************/
 /**
  * print_pointer - Prints the value of a pointer variable
- * @types: Arguments list
- * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
+ * @types: Arguments list.
+ * @buffer: Buffer array to handle print.
+ * @flags:  Calculates active flags.
  * @width: get width
  * @precision: Precision specifications
  * @size: Size specifier
